@@ -1,0 +1,11 @@
+{
+    "titulo":"Black Mirror",
+    "director":"director 1",
+    "numero_temporadas":5,
+    "actores":[
+        {"nombre":"actor1","nacionalidad":"nacionalidad1"},
+        {"nombre":"actor2","nacionalidad":"nacionalidad2"},
+        {"nombre":"actor3","nacionalidad":"nacionalidad3"},
+        {"nombre":"actor4","nacionalidad":"nacionalidad4"}
+    ]
+}

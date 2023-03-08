@@ -1,0 +1,15 @@
+﻿{
+    "titulo": "Shackleton's Antarctic Adventure",
+    "director": "Bengt",
+    "numero_temporadas": 100,
+    "actores": [
+        {
+            "nombre": "Björn",
+            "nacionalidad": "Spain"
+        },
+        {
+            "nombre": "Mén",
+            "nacionalidad": "Spain"
+        }
+    ]
+}
